@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742447396157",
+    "project_id": "edufy-syria",
+    "storage_bucket": "edufy-syria.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742447396157:android:6a830b636fb2188abfc154",
+        "android_client_info": {
+          "package_name": "com.example.edufy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4PWMb9T5sohFZoGt5goXShaxl7YwQpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

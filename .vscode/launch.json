@@ -1,0 +1,48 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+        "version": "0.2.0",
+        "configurations": [
+        
+        {
+            "name": "edufy",
+            "request": "launch",
+            "type": "dart"
+           //flutter run -t lib/main_development.dart
+           //flutter run -t lib/main_production.dart
+        },
+        {
+            "name": "edufy (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "edufy (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "responsive_s",
+            "cwd": "packages\\responsive_s",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "responsive_s (profile mode)",
+            "cwd": "packages\\responsive_s",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "responsive_s (release mode)",
+            "cwd": "packages\\responsive_s",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
